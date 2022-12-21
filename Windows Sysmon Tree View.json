@@ -7,4 +7,13 @@
 ,{"Log Source":"Windows Sysmon Events","Event ID":"22","logrecords":111}
 ,{"Log Source":"Windows Sysmon Events","Event ID":"13","logrecords":53}
 ,{"Log Source":"Windows Sysmon Events","Event ID":"1","logrecords":31}
-,{"Log Source":"Windows Sysmon Events","Event ID":"17","logrecords":29}]
+,{"Log Source":"Windows Sysmon Events","Event ID":"17","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"18","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"5","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"16","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"4","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"6","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"8","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"9","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"14","logrecords":29}
+,{"Log Source":"Windows Sysmon Events","Event ID":"15","logrecords":29}]
