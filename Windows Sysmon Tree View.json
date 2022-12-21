@@ -1,0 +1,10 @@
+[{"Log Source":"Windows Sysmon Events","Event ID":"3","logrecords":769}
+,{"Log Source":"Windows Sysmon Events","Event ID":"7","logrecords":528}
+,{"Log Source":"Windows Sysmon Events","Event ID":"12","logrecords":295}
+,{"Log Source":"Windows Sysmon Events","Event ID":"11","logrecords":249}
+,{"Log Source":"Windows Sysmon Events","Event ID":"10","logrecords":126}
+,{"Log Source":"Windows Sysmon Events","Event ID":"23","logrecords":114}
+,{"Log Source":"Windows Sysmon Events","Event ID":"22","logrecords":111}
+,{"Log Source":"Windows Sysmon Events","Event ID":"13","logrecords":53}
+,{"Log Source":"Windows Sysmon Events","Event ID":"1","logrecords":31}
+,{"Log Source":"Windows Sysmon Events","Event ID":"17","logrecords":29}]
